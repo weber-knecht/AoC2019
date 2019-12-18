@@ -1,0 +1,8 @@
+/home/jakob/dev/IntcodeComputer/bin/Debug/netstandard2.0/IntcodeComputer.deps.json
+/home/jakob/dev/IntcodeComputer/bin/Debug/netstandard2.0/IntcodeComputer.dll
+/home/jakob/dev/IntcodeComputer/bin/Debug/netstandard2.0/IntcodeComputer.pdb
+/home/jakob/dev/IntcodeComputer/obj/Debug/netstandard2.0/IntcodeComputer.csprojAssemblyReference.cache
+/home/jakob/dev/IntcodeComputer/obj/Debug/netstandard2.0/IntcodeComputer.AssemblyInfoInputs.cache
+/home/jakob/dev/IntcodeComputer/obj/Debug/netstandard2.0/IntcodeComputer.AssemblyInfo.cs
+/home/jakob/dev/IntcodeComputer/obj/Debug/netstandard2.0/IntcodeComputer.dll
+/home/jakob/dev/IntcodeComputer/obj/Debug/netstandard2.0/IntcodeComputer.pdb
