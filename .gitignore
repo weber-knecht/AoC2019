@@ -1,0 +1,6 @@
+# .net Folders
+IntcodeComputer/bin
+IntcodeComputer/obj
+IntcodeComputer.Test/bin
+IntcodeComputer.Test/obj
+IntcodeComputer.Test/obj/Debug/netcoreapp3.0/IntcodeComputer.Test.assets.cache
